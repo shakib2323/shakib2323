@@ -1,6 +1,6 @@
 # Shakib | Java Backend / Full-Stack Developer
 
-📍 Java • Spring • Microservices • REST APIs  
+📍 Java • Springboot • Microservices • REST APIs  
 💼 Actively seeking Software Developer / Java Developer roles
 
 ---
