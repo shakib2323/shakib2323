@@ -1,39 +1,61 @@
 <h1 align="center">Hi 👋, I'm Shakib Ali</h1>
-<h3 align="center">Java Backend / Full-Stack Developer</h3>
+<h3 align="center">🚀 Java Backend / Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;REST+APIs+%7C+System+Design;Full-Stack+with+React&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices;REST+APIs+%7C+System+Design;Full-Stack+Developer+with+React;Clean+Code+%7C+Scalable+Systems&center=true&width=700&height=45&color=00C2FF">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shakib2323&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shakib2323&label=Profile%20Views&color=brightgreen&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/shakib2323?label=Followers&style=flat-square&color=blue"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-💻 Passionate **Java Developer** with hands-on experience in building  
-**scalable backend systems and full-stack applications**
+💻 Passionate **Java Backend Developer** with experience in building  
+**high-performance, scalable, and production-ready applications**
 
-🎯 Strong focus on:
-- Clean Architecture
-- Scalable Microservices
-- Production-ready REST APIs
+🧠 Strong understanding of:
+- Backend Architecture & Design Principles
+- RESTful API Design
+- Microservices & Database Integration
+- Full-Stack Development Basics
+
+🎯 I believe in:
+- Clean & maintainable code
+- SOLID principles
+- Continuous learning & improvement
 
 💼 **Actively seeking** Java / Backend / Software Developer roles
 
 ---
 
+## 🧠 Core Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design-LLD-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST-APIs-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean-Code-brightgreen?style=for-the-badge"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
-### ☕ Backend & Java
+### ☕ Backend & Java Ecosystem
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
-   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Microservices"/>
+  <img src="https://img.shields.io/badge/Microservices-Cloud--Ready-blue?style=for-the-badge"/>
 </p>
 
 ### 🌐 Frontend
@@ -56,42 +78,51 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 ### 🔹 Spring Boot REST API
-📄 CRUD application using:
-- Spring Boot
-- Hibernate / JPA
-- MySQL
-- RESTful APIs
+✅ CRUD-based backend system  
+✅ Layered architecture  
+✅ Exception handling & validation  
+✅ Hibernate + MySQL integration  
 
 ---
 
 ### 🔹 Microservices Architecture Project
-📄 Independent services with:
-- REST-based communication
-- Database integration
-- Scalable architecture design
+✅ Independent deployable services  
+✅ REST-based inter-service communication  
+✅ Database per service  
+✅ Scalable & modular design  
 
 ---
 
 ### 🔹 Full-Stack Application
-📄 End-to-end application featuring:
-- React JS frontend
-- Spring Boot backend
-- REST API integration
+✅ React JS frontend  
+✅ Spring Boot backend  
+✅ REST API integration  
+✅ End-to-end feature implementation  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib2323&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib2323&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shakib2323&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib2323&theme=radical" height="170"/>
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  📧 Email: <a href="mailto:your-email@example.com"><b>shakibscrd@gmail.com</b></a><br/>
+  📱 Mobile: <b>+91-8882178908</b>
 </p>
 
 ---
@@ -112,12 +143,12 @@
 ## 🎯 Career Objective
 
 To work as a **Java / Backend Software Engineer** in a growth-oriented organization where I can:
-- Apply strong backend fundamentals
-- Deepen system design expertise
-- Contribute to scalable, real-world applications
+- Design scalable backend systems
+- Improve system design expertise
+- Deliver clean, efficient, and maintainable code
 
 ---
 
 <p align="center">
-  🚀 <b>Let’s build scalable systems together!</b>
+  ✨ <b>“Code. Learn. Scale. Repeat.”</b> ✨
 </p>
