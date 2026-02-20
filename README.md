@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:8A2BE2,100:FF0080&height=200&section=header&text=Hi%20👋,%20I'm%20Shakib%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="center">💻 Java Backend / Full-Stack Developer</h3>
+<h3 align="center">Java Backend / Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices;REST+APIs+%7C+System+Design;Full-Stack+Developer+with+React;Clean+Code+%7C+Scalable+Systems&center=true&width=750&height=50&color=00C2FF&pause=1000"/>
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Java+Backend+Developer;High-Performance+Backend+Systems;Production-Ready+Applications;Scalable+Architecture+Focused&center=true&width=700&height=40&color=F7DF1E"/>
@@ -28,13 +28,13 @@
  Passionate **Java Backend Developer** with experience in building  
 **high-performance, scalable, and production-ready applications**
 
-🧠 Strong understanding of:
+Strong understanding of:
 - Backend Architecture & Design Principles
 - RESTful API Design
 - Microservices & Database Integration
-- Full-Stack Development Basics
+- Full-Stack Development 
 
-🎯 I believe in:
+I believe in:
 - Clean & maintainable code
 - SOLID principles
 - Continuous learning & improvement
@@ -43,7 +43,7 @@
 
 ---
 
-## 🧠 Core Expertise
+## Core Expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/System%20Design-LLD-orange?style=for-the-badge"/>
@@ -54,11 +54,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### ☕ Backend & Java Ecosystem
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,hibernate,microservices&theme=dark"/>
   <img src="https://img.shields.io/badge/Microservices-Cloud--Ready-blue?style=for-the-badge"/>
 </p>
 
@@ -83,9 +83,9 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔹 Spring Boot REST API
+###  Spring Boot REST API
 ✅ CRUD-based backend system  
 ✅ Layered architecture  
 ✅ Exception handling & validation  
@@ -93,7 +93,7 @@
 
 ---
 
-### 🔹 Microservices Architecture Project
+### Microservices Architecture Project
 ✅ Independent deployable services  
 ✅ REST-based inter-service communication  
 ✅ Database per service  
@@ -101,7 +101,7 @@
 
 ---
 
-### 🔹 Full-Stack Application
+### Full-Stack Application
 ✅ React JS frontend  
 ✅ Spring Boot backend  
 ✅ REST API integration  
@@ -109,7 +109,7 @@
 
 ---
 
-## 📊 GitHub Activity (Animated)
+## GitHub Activity (Animated)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shakib2323&show_icons=true&theme=radical" height="170"/>
@@ -118,7 +118,7 @@
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 <p align="center">
   <img src="https://img.shields.io/badge/Email-shakibscrd@gmail.com-red?style=for-the-badge"/>
@@ -128,7 +128,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shakib23">
@@ -141,7 +141,7 @@
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 To work as a **Java / Backend Software Engineer** in a growth-oriented organization where I can:
 - Design scalable backend systems
