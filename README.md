@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shakib Ali</h1>
-<h3 align="center">Java Backend / Full-Stack Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:8A2BE2,100:FF0080&height=200&section=header&text=Hi%20👋,%20I'm%20Shakib%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h3 align="center">💻 Java Backend / Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices;REST+APIs+%7C+System+Design;Full-Stack+Developer+with+React;Clean+Code+%7C+Scalable+Systems&center=true&width=700&height=45&color=00C2FF">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices;REST+APIs+%7C+System+Design;Full-Stack+Developer+with+React;Clean+Code+%7C+Scalable+Systems&center=true&width=750&height=50&color=00C2FF&pause=1000"/>
 </p>
 
 <p align="center">
@@ -17,6 +20,10 @@
 ---
 
 ## 🌟 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Java+Backend+Developer;High-Performance+Backend+Systems;Production-Ready+Applications;Scalable+Architecture+Focused&center=true&width=700&height=40&color=F7DF1E"/>
+</p>
 
  Passionate **Java Backend Developer** with experience in building  
 **high-performance, scalable, and production-ready applications**
@@ -50,41 +57,25 @@
 ## 🛠️ Tech Stack
 
 ### ☕ Backend & Java Ecosystem
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark"/>
   <img src="https://img.shields.io/badge/Microservices-Cloud--Ready-blue?style=for-the-badge"/>
 </p>
 
 ### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,bootstrap,html,css&theme=dark"/>
 </p>
 
 ### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
   <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle"/>
 </p>
 
 ### ⚙️ Tools & Practices
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea"/>
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide"/>
-
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,maven,docker&theme=dark"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
@@ -130,8 +121,9 @@
 ## 📬 Contact Me
 
 <p align="center">
-  📧 Email: <a href="mailto:your-email@example.com"><b>shakibscrd@gmail.com</b></a><br/>
-  📱 Mobile: <b>+91-8882178908</b>
+  <img src="https://img.shields.io/badge/Email-shakibscrd@gmail.com-red?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Mobile-+91--8882178908-green?style=for-the-badge"/>
 </p>
 
 ---
@@ -140,10 +132,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shakib23">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Shakib%20Ali-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/shakib2323">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-shakib2323-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -160,4 +152,8 @@ To work as a **Java / Backend Software Engineer** in a growth-oriented organizat
 
 <p align="center">
   ✨ <b>“Code. Learn. Scale. Repeat.”</b> ✨
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:8A2BE2,100:00C2FF&height=120&section=footer"/>
 </p>
