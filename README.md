@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakib Ali</h1>
-<h3 align="center">🚀 Java Backend / Full-Stack Developer</h3>
+<h3 align="center">Java Backend / Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices;REST+APIs+%7C+System+Design;Full-Stack+Developer+with+React;Clean+Code+%7C+Scalable+Systems&center=true&width=700&height=45&color=00C2FF">
@@ -18,7 +18,7 @@
 
 ## 🌟 About Me
 
-💻 Passionate **Java Backend Developer** with experience in building  
+ Passionate **Java Backend Developer** with experience in building  
 **high-performance, scalable, and production-ready applications**
 
 🧠 Strong understanding of:
@@ -77,8 +77,17 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea"/>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide"/>
+
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
 </p>
 
 ---
