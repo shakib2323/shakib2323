@@ -58,7 +58,8 @@ I believe in:
 
 ### ☕ Backend & Java Ecosystem
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,hibernate,microservices&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-Cloud--Ready-blue?style=for-the-badge"/>
 </p>
 
